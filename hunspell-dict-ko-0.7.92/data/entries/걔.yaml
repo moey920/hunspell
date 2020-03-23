@@ -1,0 +1,24 @@
+000_KEYWORD: 걔__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=393237&searchKeywordTo=3
+    가져온 시각: '2019-06-25T07:39:03+09:00'
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘그 아이’가 줄어든 말.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 걔
+    항목ID: 393237
+import_derived:
+  맞춤법 검사:
+    표제어: 걔
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 걔
+    품사: 명사
